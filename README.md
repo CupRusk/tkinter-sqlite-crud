@@ -25,3 +25,5 @@ Simple CRUD application using Tkinter and SQLite. Allows you to insert, view, an
 ```bash
 git clone https://github.com/твой-никнейм/tkinter-sqlite-crud.git
 cd tkinter-sqlite-crud
+```in program
+password: 2208-5643-4556-1234
